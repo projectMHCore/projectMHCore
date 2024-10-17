@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I am a student at a technical university with a degree in Computer Engineering.
+What am I doing?
+- ⚡ I administer a Minecraft server, work with server cores, plugins and websites for gaming communities.
+- 😄 I do advertising and server promotion to attract more players and create an active community.
 <!--
 **projectMHCore/projectMHCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
